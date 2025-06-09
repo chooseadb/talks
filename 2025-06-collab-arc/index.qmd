@@ -3,12 +3,13 @@ author:
   - "[chooseadb team](https://chooseadb.com)"
 date: 2025-06-17
 format: revealjs
-subtitle: "a game"
-title: "Choose a db"
+subtitle: "ARC Collaboration hour"
+title: "Building a game"
 ---
 
 
-# Making the game
+# Context
+
 
 ## the team
 
