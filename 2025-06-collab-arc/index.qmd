@@ -1,0 +1,13 @@
+---
+author:
+  - "[chooseadb team](https://chooseadb.com)"
+date: 2025-06-17
+format: revealjs
+subtitle: "a game"
+title: "Choose a db"
+---
+
+
+# Making the game 
+
+## the team
