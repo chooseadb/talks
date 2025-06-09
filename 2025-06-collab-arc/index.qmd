@@ -8,6 +8,6 @@ title: "Choose a db"
 ---
 
 
-# Making the game 
+# Making the game
 
 ## the team
