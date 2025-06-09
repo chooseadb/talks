@@ -26,7 +26,7 @@ website:
   navbar:
     tools:
       - icon: house
-        href: https://chooseadb.github.io
+        href: https://chooseadb.com
       - icon: github
         href: https://github.com/chooseadb/talks
   title: ""
