@@ -1,3 +1,4 @@
+---
 exclude: ^_extensions
 repos:
   - repo: https://github.com/paddyroddy/.github
