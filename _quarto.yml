@@ -1,0 +1,33 @@
+---
+project:
+  type: website
+
+format:
+  html:
+    theme: darkly
+  revealjs:
+    callout-appearance: simple
+    # filters:
+    #   - _filters/slugify.lua
+    footer: "{{< meta title >}} - <https://chooseadb.github.io/talks>"
+    hash-type: number
+    history: false
+    incremental: true
+    link-external-icon: true
+    mermaid:
+      theme: dark
+    slide-number: true
+    theme: dark
+    transition: fade
+
+website:
+  # google-analytics: UA-XXXXXXXXX-X
+  # favicon: /assets/images/favicon.ico
+  navbar:
+    tools:
+      - icon: house
+        href: https://chooseadb.github.io
+      - icon: github
+        href: https://github.com/chooseadb/talks
+  title: ""
+  
