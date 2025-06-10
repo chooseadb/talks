@@ -8,9 +8,47 @@ title: "Building a game"
 ---
 
 
-# Context
+# Choose a DB
+
+## Demo
+
+## Collaboration Workshop 2025
+[![](figures/ssi_logo.png)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25)
+
+## Collaboration Workshop 2025
+[![](figures/cw25.jpg)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25)
+
+## Hack-day
+- Come up with an idea
+- Pitch it to the audiance
+- People select the idea they want to work on
+- Teams form around the ideas
+- Teams work on the ideas
+- Teams present their ideas at the end of the day
+
+## Ideas
+
+::: {layout-ncol=2}
+
+::: {#first-column}
+
+- Databases are fun
+
+:::
+
+- Build a game for learning
+
+:::
+
+::: {.fragment .fade-left}
+![](figures/git-merge.png){fig-align="center"}
+:::
+
+## The Team
 
 
-## the team
 
-## the game
+## The Game
+
+
+
