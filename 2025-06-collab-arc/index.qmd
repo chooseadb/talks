@@ -49,6 +49,3 @@ title: "Building a game"
 
 
 ## The Game
-
-
-
