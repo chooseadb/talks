@@ -13,10 +13,10 @@ title: "Building a game"
 ## Demo
 
 ## Collaboration Workshop 2025
-[![](figures/ssi_logo.png)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25)
+[![](figures/ssi_logo.png)](https://www.software.ac.uk/)
 
 ## Collaboration Workshop 2025
-[![](figures/cw25.jpg)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25)
+[![](figures/cw25.jpg)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25){fig-align="center"}
 
 ## Hack-day
 - Come up with an idea
