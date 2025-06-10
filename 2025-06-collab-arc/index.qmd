@@ -20,7 +20,7 @@ title: "Building a game"
 
 ## Hack-day
 - Come up with an idea
-- Pitch it to the audiance
+- Pitch it to the audience
 - People select the idea they want to work on
 - Teams form around the ideas
 - Teams work on the ideas
