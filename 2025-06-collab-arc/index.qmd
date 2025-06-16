@@ -93,31 +93,15 @@ title: Building a Game
 
 ## The tools
 
-:::: {.columns}
+:::: {layout-ncol="3"}
 
-::: {.column width="40%"}
+[![Twine](figures/Twine-logo.svg)](https://twinery.org/)
 
-[![](figures/Twine-logo.svg)](https://twinery.org/)
+[![Repos | Pages](figures/github-logo.png)](https://github.com/)
 
-
-Twine
-
-:::
-
-::: {.column width="40%"}
-
-
-[![](figures/github-logo.png)](https://github.com/)
-
-Repos | Pages
-
-[![](figures/github-actions.png)](https://github.com/)
-
-Actions
+[![Actions](figures/github-actions.png)](https://github.com/)
 
 :::
-
-::::
 
 ## Game flow
 
