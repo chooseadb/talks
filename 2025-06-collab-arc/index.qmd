@@ -79,7 +79,7 @@ title: Building a Game
 
 ## The Game
 
-- Theme :
+- Theme
   - Mythical lands
 - Players are adventurers
 - Answers decide the route of the game
