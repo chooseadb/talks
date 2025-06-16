@@ -100,7 +100,11 @@ title: Building a Game
 
 ![](figures/twine-diagram.png){fig-align="center"}
 
-## {auto-animate=true}
+<!-- vale RedHat.TermsWarnings = NO -->
+
+## Underlying Code {auto-animate=true data-menu-title="Underlying Code (i)"}
+
+<!-- vale RedHat.TermsWarnings = YES -->
 
 ```{.json code-line-numbers="1|2-3|5|7"}
 :: Start the adventure {"position":"900,525","size":"100,100"}
@@ -112,7 +116,7 @@ Do you have some data?
 [[yes|data-yes]] / [[no|data-no]]
 ```
 
-## {auto-animate=true}
+## Underlying Code {auto-animate=true data-menu-title="Underlying Code (ii)"}
 
 ```{.json code-line-numbers="9-11|13-19"}
 :: Start the adventure {"position":"900,525","size":"100,100"}
