@@ -10,16 +10,6 @@ title: Building a Game
 
 ## Demo
 
-```{=html}
-<iframe
-    height="550"
-    src="https://chooseadb.com"
-    title="chooseadb.com"
-    width="1000"
->
-</iframe>
-```
-
 <!-- vale RedHat.TermsWarnings = NO -->
 
 ## Collaboration Workshop 2025 {data-menu-title="Collaboration Workshop 2025 (i)"}
@@ -149,7 +139,15 @@ Do other people need to write to your data? (Yes, this includes users.)
 
 ## Game play
 
-![](figures/gameplay.png){fig-align="center"}
+```{=html}
+<iframe
+    height="550"
+    src="https://chooseadb.com"
+    title="chooseadb.com"
+    width="1000"
+>
+</iframe>
+```
 
 ## Future work
 
