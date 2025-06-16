@@ -22,7 +22,7 @@ title: Building a Game
 
 [![](figures/cw25.jpg)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25){fig-align="center"}
 
-## Hack-day
+## Hack Day
 
 - Come up with an idea
 - Pitch it to the audience
@@ -84,7 +84,7 @@ title: Building a Game
 - Players are adventurers
 - Answers decide the route of the game
 
-## The tools
+## The Tools
 
 :::: {layout-ncol="3"}
 
@@ -96,7 +96,7 @@ title: Building a Game
 
 :::
 
-## Game flow
+## Game Flow
 
 ![](figures/twine-diagram.png){fig-align="center"}
 
@@ -141,7 +141,7 @@ Do other people need to write to your data? (Yes, this includes users.)
 
 ```
 
-## Game play
+## Game Play
 
 ```{=html}
 <iframe
@@ -153,7 +153,7 @@ Do other people need to write to your data? (Yes, this includes users.)
 </iframe>
 ```
 
-## Future work
+## Future Work
 
 - Extend the game
 - Add graphics
