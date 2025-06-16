@@ -95,8 +95,62 @@ Twine
 
 [![](figures/github-logo.png)](https://github.com/)
 
-Repos | Actions
+Repos | Pages
+
+[![](figures/github-actions.png)](https://github.com/)
+
+Actions
 
 :::
 
 ::::
+
+## Game flow
+
+![](figures/twine-diagram.png){fig-align="center"}
+
+## {auto-animate=true}
+
+```{.json code-line-numbers="1|2-3|5|7"}
+:: Start the adventure {"position":"900,525","size":"100,100"}
+A courier delivers you a magical bag which stores many things.
+Perhaps you should already have something in there.
+
+Do you have some data?
+
+[[yes|data-yes]] / [[no|data-no]]
+```
+## {auto-animate=true}
+
+```{.json code-line-numbers="9-11|13-19"}
+:: Start the adventure {"position":"900,525","size":"100,100"}
+A courier delivers you a magical bag which stores many things.
+Perhaps you should already have something in there.
+
+Do you have some data?
+
+[[yes|data-yes]] / [[no|data-no]]
+
+:: data-no {"position":"1050,525","size":"100,100"}
+Oh no! Perhaps you should collect some!
+You can [[return to your journey another time|Start the adventure]].
+
+:: data-yes {"position":"900,650","size":"100,100"}
+You look around and spot a tavern.
+There may be other travelers who wish to join your party.
+
+Do other people need to write to your data? (Yes, this includes users.)
+
+[[yes|edit-yes]] / [[no|edit-no]]
+
+```
+
+## Game play
+
+![](figures/gameplay.png){fig-align="center"}
+
+## Future work
+
+- Extend the game
+- Add graphics
+- Join us ?
