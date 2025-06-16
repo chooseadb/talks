@@ -1,12 +1,10 @@
 ---
-author:
-  - "[chooseadb team](https://chooseadb.com)"
+author: "[chooseadb Team](https://github.com/orgs/chooseadb/people)"
 date: 2025-06-17
 format: revealjs
-subtitle: "ARC Collaboration hour"
-title: "Building a game"
+subtitle: ARC Collaboration Hour
+title: Building a Game
 ---
-
 
 # Choose a DB
 
