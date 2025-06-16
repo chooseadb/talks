@@ -10,6 +10,16 @@ title: Building a Game
 
 ## Demo
 
+```{=html}
+<iframe
+    height="550"
+    src="https://chooseadb.com"
+    title="chooseadb.com"
+    width="1000"
+>
+</iframe>
+```
+
 ## Collaboration Workshop 2025
 [![](figures/ssi_logo.png)](https://www.software.ac.uk/)
 
