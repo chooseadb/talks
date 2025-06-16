@@ -1,30 +1,35 @@
 ---
-author:
-  - "[chooseadb team](https://chooseadb.com)"
+author: "[chooseadb Team](https://github.com/orgs/chooseadb/people)"
 date: 2025-06-17
 format: revealjs
-subtitle: "ARC Collaboration hour"
-title: "Building a game"
+subtitle: ARC Collaboration Hour
+title: Building a Game
 ---
-
 
 # Choose a DB
 
 ## Demo
 
-## Collaboration Workshop 2025
+<!-- vale RedHat.TermsWarnings = NO -->
+
+## Collaboration Workshop 2025 {data-menu-title="Collaboration Workshop 2025 (i)"}
+
+<!-- vale RedHat.TermsWarnings = YES -->
+
 [![](figures/ssi_logo.png)](https://www.software.ac.uk/)
 
-## Collaboration Workshop 2025
+## Collaboration Workshop 2025 {data-menu-title="Collaboration Workshop 2025 (ii)"}
+
 [![](figures/cw25.jpg)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25){fig-align="center"}
 
-## Hack-day
+## Hack Day
+
 - Come up with an idea
 - Pitch it to the audience
 - People select the idea they want to work on
 - Teams form around the ideas
 - Teams work on the ideas
-- Teams present their ideas at the end of the day
+- Teams present their ideas during the final session
 
 ## Ideas
 
@@ -41,10 +46,13 @@ title: "Building a game"
 :::
 
 ::: {.fragment .fade-left}
+
 ![](figures/git-merge.png){fig-align="center"}
+
 :::
 
 ## The Team
+
 ![](figures/team.png){fig-align="center"}
 
 :::: {.columns}
@@ -71,45 +79,32 @@ title: "Building a game"
 
 ## The Game
 
-- Theme :
+- Theme
   - Mythical lands
 - Players are adventurers
 - Answers decide the route of the game
 
+## The Tools
 
-## The tools
+:::: {layout-ncol="3"}
 
-:::: {.columns}
+[![Twine](figures/Twine-logo.svg)](https://twinery.org/)
 
-::: {.column width="40%"}
+[![Repos | Pages](figures/github-logo.png)](https://github.com/)
 
-[![](figures/Twine-logo.svg)](https://twinery.org/)
-
-
-Twine
+[![Actions](figures/github-actions.png)](https://github.com/)
 
 :::
 
-::: {.column width="40%"}
-
-
-[![](figures/github-logo.png)](https://github.com/)
-
-Repos | Pages
-
-[![](figures/github-actions.png)](https://github.com/)
-
-Actions
-
-:::
-
-::::
-
-## Game flow
+## Game Flow
 
 ![](figures/twine-diagram.png){fig-align="center"}
 
-## {auto-animate=true}
+<!-- vale RedHat.TermsWarnings = NO -->
+
+## Underlying Code {auto-animate=true data-menu-title="Underlying Code (i)"}
+
+<!-- vale RedHat.TermsWarnings = YES -->
 
 ```{.json code-line-numbers="1|2-3|5|7"}
 :: Start the adventure {"position":"900,525","size":"100,100"}
@@ -120,7 +115,8 @@ Do you have some data?
 
 [[yes|data-yes]] / [[no|data-no]]
 ```
-## {auto-animate=true}
+
+## Underlying Code {auto-animate=true data-menu-title="Underlying Code (ii)"}
 
 ```{.json code-line-numbers="9-11|13-19"}
 :: Start the adventure {"position":"900,525","size":"100,100"}
@@ -145,12 +141,20 @@ Do other people need to write to your data? (Yes, this includes users.)
 
 ```
 
-## Game play
+## Game Play
 
-![](figures/gameplay.png){fig-align="center"}
+```{=html}
+<iframe
+    height="550"
+    src="https://chooseadb.com"
+    title="chooseadb.com"
+    width="1000"
+>
+</iframe>
+```
 
-## Future work
+## Future Work
 
 - Extend the game
 - Add graphics
-- Join us ?
+- Join us?

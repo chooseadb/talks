@@ -7,8 +7,7 @@ format:
     theme: darkly
   revealjs:
     callout-appearance: simple
-    # filters:
-    #   - _filters/slugify.lua
+    code-copy: true
     footer: "{{< meta title >}} - <https://chooseadb.github.io/talks>"
     hash-type: number
     history: false
@@ -16,13 +15,14 @@ format:
     link-external-icon: true
     mermaid:
       theme: dark
+    menu:
+      hideMissingTitles: true
+      useTextContentForMissingTitles: false
     slide-number: true
     theme: dark
     transition: fade
 
 website:
-  # google-analytics: UA-XXXXXXXXX-X
-  # favicon: /assets/images/favicon.ico
   navbar:
     tools:
       - icon: house
