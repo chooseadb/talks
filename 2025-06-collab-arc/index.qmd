@@ -45,7 +45,58 @@ title: "Building a game"
 :::
 
 ## The Team
+![](figures/team.png){fig-align="center"}
 
+:::: {.columns}
 
+::: {.column width="30%"}
+
+![](figures/OLS-logo.png){fig-size="50%"}
+
+:::
+
+::: {.column width="30%"}
+
+![](figures/ARC_Logo.jpg){fig-size="50%"}
+
+:::
+
+::: {.column width="30%"}
+
+![](figures/KCL-logo.png){fig-size="50%"}
+
+:::
+
+::::
 
 ## The Game
+
+- Theme :
+  - Mythical lands
+- Players are adventurers
+- Answers decide the route of the game
+
+
+## The tools
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+[![](figures/Twine-logo.svg)](https://twinery.org/)
+
+
+Twine
+
+:::
+
+::: {.column width="40%"}
+
+
+[![](figures/github-logo.png)](https://github.com/)
+
+Repos | Actions
+
+:::
+
+::::
