@@ -20,10 +20,16 @@ title: Building a Game
 </iframe>
 ```
 
-## Collaboration Workshop 2025
+<!-- vale RedHat.TermsWarnings = NO -->
+
+## Collaboration Workshop 2025 {data-menu-title="Collaboration Workshop 2025 (i)"}
+
+<!-- vale RedHat.TermsWarnings = YES -->
+
 [![](figures/ssi_logo.png)](https://www.software.ac.uk/)
 
-## Collaboration Workshop 2025
+## Collaboration Workshop 2025 {data-menu-title="Collaboration Workshop 2025 (ii)"}
+
 [![](figures/cw25.jpg)](https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25){fig-align="center"}
 
 ## Hack-day
