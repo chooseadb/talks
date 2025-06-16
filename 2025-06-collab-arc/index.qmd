@@ -32,7 +32,7 @@ title: Building a Game
 - People select the idea they want to work on
 - Teams form around the ideas
 - Teams work on the ideas
-- Teams present their ideas at the end of the day
+- Teams present their ideas during the final session
 
 ## Ideas
 
