@@ -1,1 +1,1 @@
-Sitemap: https://chooseadb.github.io/talks/sitemap.xml
+Sitemap: https://chooseadb.com/talks/sitemap.xml
