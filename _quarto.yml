@@ -8,7 +8,7 @@ format:
   revealjs:
     callout-appearance: simple
     code-copy: true
-    footer: "{{< meta title >}} - <https://talks.chooseadb.com>"
+    footer: "{{< meta title >}} - <https://chooseadb.com/talks>"
     hash-type: number
     history: false
     incremental: true
